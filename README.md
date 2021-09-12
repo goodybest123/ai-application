@@ -4,6 +4,6 @@ Hi! Welcome to our small self-evaluation of your Data Science skills. Since you 
 
 If you never ever heard of Pandas/Numpy/Matplotlib/scikit-learn you probably already can stop reading right here - the Data Science track might be just right to start! 
 
-The notebook won't be evaluated, we even won't see it at all. If you want to cheat - we cannot hinder you, but we also can't help you changing tracks after the semester started. Be honest to yourself, it's totally fine to start with the basics :) 
+If you want to cheat - we cannot hinder you, but we also can't help you changing tracks after the semester started. Be honest to yourself, it's totally fine to start with the basics :) 
 
 That's it with the trivia. We did the notebook ourselfes and needed ~30 minutes to solve it, just to give you a rough estimate. Enjoy! 😊
